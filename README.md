@@ -32,3 +32,6 @@ The dataset contains UPI transaction details including date, amount, payment mod
 
 ## 🎯 Conclusion
 This dashboard helps track digital payment trends and provides actionable insights for financial analysis and decision-making.
+
+##Author
+SHASHANK SHEKHAR – Data Analyst (SQL | Excel | Power BI | Python | Tableau)
